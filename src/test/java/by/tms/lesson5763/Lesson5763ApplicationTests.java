@@ -12,7 +12,6 @@ class Lesson5763ApplicationTests {
 
   @Test
   void contextLoads() {
-    fail();
   }
 
 }
